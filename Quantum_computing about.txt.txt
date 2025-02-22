@@ -1,0 +1,74 @@
+Professor:
+	Prof. Ahmed Banafa
+	E-mail: ahmed.banafa@sfbu.edu
+
+	Office: 132 -SFBU
+	Office Hours Friday 12:00 PM - 1:00 PM - 
+
+
+Description:
+	Quantum Computing is the area of study focused on developing computer technology based on the principles of quantum theory
+
+
+Course areas:
+	- difference between Quantum Computing and Classic Computing
+	- the concept of Qubits
+	- difficulties facing Quantum Computing
+	- the principles of Quantum Superposition and Entanglement
+	- Quantum Computing Categories:
+		-- applications of Quantum Computing in AI, 
+		-- IoT, 
+		-- Blockchain, 
+		-- Communications
+		-- Encryption
+	- post-Quantum technologies,
+		Quantum Internet, Quantum Cryptography and Quantum Teleportation
+	- Industry Guest Speaker
+
+
+Prerequisites: Knowledge of Physics and Python
+
+
+Target: 
+	time complexity:
+	Best ^
+	O(1) - best
+	O(N) - avergae
+	O(nlogn)
+	O(n*n)
+
+
+Week 4	-- Test 1
+
+Week 8	-- Midterm
+
+Week 11	-- Test 2
+
+Week 14	-- Final Presentation
+
+Week 15 -- Final Exam
+
+
+
+
+Grades
+
+4 Homework assignments (50 points each)				20%		200 Points
+
+Final Research Paper						10%		100 Points
+
+Test 1								10%		100 Points
+
+Test 2								10%		100 Points
+
+Midterm Exam							15%		150 Points
+
+Final Exam							25%		250 Points
+
+Quizzes and Discussion 						05%		050 Points
+
+In-class Presentation						05%		050 Points
+
+				Total 1000 Points
+
+

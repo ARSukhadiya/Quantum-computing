@@ -1,0 +1,55 @@
+QML components:
+- Qua. circuits
+- Qua. data
+- Qua. algo.
+- Qua. variational circuits
+- Q. neural networks
+- Q. support vector machines
+- Q. principal compo. analysis
+
+Adv. of Q. ML:
+- photo
+- can be used for tasks such as image and speech recognition, natural language processing, and recommendation systems.
+- ability to perform unsupervised learning tasks more efficiently.
+
+
+IOT
+- Data authentication...
+- side-channel attacks
+- Irregular updates
+- Malware and Ransomware
+
+Blockchain
+- software
+
+Blockchain lang.s
+- C++
+- Python
+- Go
+-    ()
+- JS
+
+Types of blockchain:
+Private,
+public,
+federated
+
+QC and blockchain
+- danger - QC ability to break traditional encryption
+- 
+
+
+Next week - Test 2
+week 15 -- Final Exam -- 2 docs
+
+
+- CDS 60 mins programs -- recent on Q.C.
+- Zigbee
+
+
+Projects:
+- Topic
+- 
+- Q.C. application in the scope
+- parameter: Quality, ease, fluency, effect
+- 
